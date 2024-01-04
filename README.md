@@ -8,7 +8,7 @@ Run the 'change.bat' file to generate a new quote.
 
 ## Result
 
-![Result](https://gitlab.com/nimisha-sara/wallpaper-generator/-/blob/main/result.jpg)
+![Result](result.jpg)
 
 ## Contributing
 
